@@ -1,11 +1,10 @@
 import './App.css'
 
 function App() {
-    const hw = "Hello World!"
-    const bre = "Bre is cute :)"
+    const test = "This test is seeing if I can just push to main without 404-ing the site..."
 
   return (
-      bre
+      test
   )
 }
 
